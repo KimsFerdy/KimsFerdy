@@ -7,12 +7,10 @@
   <h3>Tech Arsenal</h3>
   <p>Here's the gear I swear by:</p>
   <ul>
-    <li>☑️ JavaScript</li>
     <li>☑️ .NET Core</li>
     <li>☑️ C++</li>
     <li>☑️ C#</li>
     <li>☑️ Python</li>
-    <li>☑️ Unity</li>
     <li>☑️ CryEngine</li>
     <li>☑️ Unreal Engine</li>
     <li>☑️ Blender</li>
