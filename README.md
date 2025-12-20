@@ -1,7 +1,7 @@
 <h2 align="left">Kim's Ferdy</h2>
 <p align="left">
   <em>Game Programmer | Engine Explorer | 3D Artist | DevOps Engineer | Technical Programmer</em><br>
-  I live in Unity and Unreal to build games that suck you in and don't let go—</p>
+</p>
 
 <div align="left">
   <h3>Tech Arsenal</h3>
@@ -27,9 +27,9 @@
   <h3>Hobbies & Beyond</h3>
   <p>When I'm not knee-deep in code, here's what i try to envolve myself in:</p>
   <ul>
-    <li><strong>Personal Passions:</strong> Art to unwind and sketch concepts, math and physics , biology (yeah why not). But stars? Galaxies, planets, the whole cosmic shebang—astronomy's my escape hatch to infinity. (Astrology's fun for laughs, but don't @ me.)</li>
-    <li><strong>Languages:</strong> Fluent in English, French, Swahili, Elementary in Korean, Japanese, Spanish, Advanced in Kinyarwanda. Keeps convos global and put my nose in other's cultures 🌍</li>
-    <li><strong>Public Vibes:</strong> Hooping on the basketball court for fun, or street boxing to sharpen reflexes and hit on some people😈👌. Nothing beats the adrenaline rush.</li>
+    <li><strong>Personal Interests:</strong> I enjoy art for relaxation and concept sketching, and I'm fascinated by math, physics, and biology. Astronomy is my favorite—there's something captivating about exploring stars, galaxies, and the vastness of space. (Astrology is entertaining, though I take it with a grain of salt.)</li>
+<li><strong>Languages:</strong> Fluent in English, French, Swahili, and Kinyarwanda (advanced), with elementary knowledge of Korean, Japanese, and Spanish. I love connecting with different cultures through language. 🌍</li>
+<li><strong>Activities:</strong> I play basketball for fun and practice boxing to stay sharp and challenge myself. There's nothing quite like the adrenaline and focus they bring.</li>
   </ul>
 </div>
 
